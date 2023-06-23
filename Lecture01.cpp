@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     cout<<"Lecture 1"<<endl;
-    cout<<"Intro to the Course Structure"<<endl;
+    cout<<"Introduction to the Course Structure"<<endl;
     /*
      * 1. Searching & Sorting (Implementation | Library Functions) (2)
      * 2. Recursion & Backtracking (2)

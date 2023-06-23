@@ -17,7 +17,7 @@ int main(){
      # Pushes the changes in your local repository up to the remote repository you specified as the origin
 
      *Note: - You can add origin as well
-     *              Command: - $ git remote add origin https://github.com/dipender-saini/Cipher-School-assignemtn
+     *              Command: - $ git remote add origin https://github.com/dipender-saini/Cipher-School-assignment
      */
     return 0;
 }
